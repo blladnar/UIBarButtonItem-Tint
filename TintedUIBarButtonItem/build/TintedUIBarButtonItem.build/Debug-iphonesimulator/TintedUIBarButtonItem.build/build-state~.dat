@@ -1,0 +1,272 @@
+TTintedUIBarButtonItem
+v7
+r0
+t322971668.007425
+cCheck dependencies
+cProcessInfoPlistFile /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/Info.plist TintedUIBarButtonItem-Info.plist
+cCompileXIB /Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib
+cCompileXIB /Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib
+cProcessPCH /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch.gch TintedUIBarButtonItem_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/main.o /Users/Randall/Desktop/TintedUIBarButtonItem/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemAppDelegate.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemViewController.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/UIBarButtonItem+Tint.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.h
+c000000004D8FEF2A0000000000000234
+t1301278506
+s564
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m
+c000000004D8FEF2A0000000000000ADC
+t1301278506
+s2780
+i"TintedUIBarButtonItemAppDelegate.h"
+i"TintedUIBarButtonItemViewController.h"
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.h
+c000000004D8FEF2A0000000000000119
+t1301278506
+s281
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m
+c000000004D8FEF2A00000000000005FA
+t1301278506
+s1530
+i"TintedUIBarButtonItemViewController.h"
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h
+c000000004D8FF06C0000000000000151
+t1301278828
+s337
+i<Foundation/Foundation.h>
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m
+c000000004D8FF0840000000000000164
+t1301278852
+s356
+i"UIBarButtonItem+Tint.h"
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib
+c000000004D8FEF2A0000000000004ED1
+t1301278506
+s20177
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib
+c000000004D8FEF2A0000000000001A7D
+t1301278506
+s6781
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItem_Prefix.pch
+c000000004D8FEF2A00000000000000D3
+t1301278506
+s211
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app
+t2
+s0
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app.dSYM
+t2
+s0
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/Info.plist
+t1301278862
+s653
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/MainWindow.nib
+t1301278863
+s1151
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/PkgInfo
+t1301278862
+s8
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/TintedUIBarButtonItem
+t2
+s0
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/TintedUIBarButtonItemViewController.nib
+t1301278864
+s795
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItem.LinkFileList
+c000000004D8FF08E00000000000002BB
+t1301278862
+s699
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemAppDelegate.o
+t1301278867
+s51704
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemViewController.o
+t1301278867
+s37804
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/UIBarButtonItem+Tint.o
+t2
+s0
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/main.o
+t1301278867
+s6316
+
+N/Users/Randall/Desktop/TintedUIBarButtonItem/main.m
+c000000004D8FEF2A0000000000000178
+t1301278506
+s376
+i<UIKit/UIKit.h>
+
+N/var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch.gch
+t1301278867
+s15453392
+
+NTintedUIBarButtonItem-Info.plist
+c000000004D8FEF2A000000000000038D
+t1301278506
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322971662#322971662#0(0"0(0#1#0"8722130336#0"0#
+
+CCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemAppDelegate.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322971667.612664
+e322971667.861416
+r1
+xCompileC
+xbuild/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemAppDelegate.o
+x/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m322971667#322971667#0(0"0(0#0#87"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m8723061952#2324"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-generated-files.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-own-target-headers.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-all-target-headers.hmap -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-project-headers.hmap -F/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources/i386 -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch -c /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemAppDelegate.m -o /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemAppDelegate.o0#
+
+CCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemViewController.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322971667.808452
+e322971668.007367
+r1
+xCompileC
+xbuild/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemViewController.o
+x/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m322971667#322971668#0(0"0(0#0#90"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m8719406464#2330"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-generated-files.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-own-target-headers.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-all-target-headers.hmap -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-project-headers.hmap -F/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources/i386 -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch -c /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/TintedUIBarButtonItemViewController.m -o /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/TintedUIBarButtonItemViewController.o0#
+
+CCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/UIBarButtonItem+Tint.o /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322971667.861518
+e322971668.006810
+r0
+xCompileC
+xbuild/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/UIBarButtonItem+Tint.o
+x/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:9:
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h:14: error: can not use an object as parameter to a method
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h:14: error: expected ';' before '(' token
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:14: error: can not use an object as parameter to a method
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:14: error: expected '{' before '(' token
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:19: warning: incomplete implementation of category 'Tint'
+o/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:19: warning: method definition for '+barButtonItemWithTint' not found
+lSLF07#2@83"Compile /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971667#322971668#0(883"In file included from /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:9:/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h:14: error: can not use an object as parameter to a method/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h:14: error: expected ';' before '(' token/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:14: error: can not use an object as parameter to a method/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:14: error: expected '{' before '(' token/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:19: warning: incomplete implementation of category 'Tint'/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m:19: warning: method definition for '+barButtonItemWithTint' not found6(4@46"Can not use an object as parameter to a method322971667#101#134#2(7@97"In file included from /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971667#18446744073709551615#0#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#9#0#9#0#0"0(13@125"Can not use an object as parameter to a method in /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971667#18446744073709551615#0#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971628#14#0#14#0#0"0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971628#14#0#14#0#0"0(4@29"Expected ';' before '(' token322971667#235#117#2(7@97"In file included from /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971667#18446744073709551615#0#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#9#0#9#0#0"0(13@108"Expected ';' before '(' token in /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971667#18446744073709551615#0#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971628#14#0#14#0#0"0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.h322971628#14#0#14#0#19"expected * before *0(4@46"Can not use an object as parameter to a method322971667#352#134#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#14#0#14#0#0"0(4@29"Expected '{' before '(' token322971667#486#117#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#14#0#14#0#19"expected * before *0(22@44"Incomplete implementation of category 'Tint'322971667#603#134#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#19#0#19#0#0"0(22@56"Method definition for '+barButtonItemWithTint' not found322971667#737#146#0(6@75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m322971652#19#0#19#0#35"method definition for '*' not found0(0#0#75"/Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m8724032896#2300"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-generated-files.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-own-target-headers.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-all-target-headers.hmap -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-project-headers.hmap -F/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources/i386 -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch -c /Users/Randall/Desktop/TintedUIBarButtonItem/Classes/UIBarButtonItem+Tint.m -o /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/UIBarButtonItem+Tint.o1#
+
+CCompileC build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/main.o /Users/Randall/Desktop/TintedUIBarButtonItem/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322971667.607797
+e322971667.808342
+r1
+xCompileC
+xbuild/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/main.o
+x/Users/Randall/Desktop/TintedUIBarButtonItem/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Randall/Desktop/TintedUIBarButtonItem/main.m322971667#322971667#0(0"0(0#0#51"/Users/Randall/Desktop/TintedUIBarButtonItem/main.m8724608832#2260"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-generated-files.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-own-target-headers.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-all-target-headers.hmap -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-project-headers.hmap -F/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources/i386 -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources -include /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch -c /Users/Randall/Desktop/TintedUIBarButtonItem/main.m -o /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib
+s322971662.904248
+e322971663.969409
+r1
+xCompileXIB
+x/Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322971662#322971663#0(0"0(0#0#59"/Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib8723291328#602"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/MainWindow.nib /Users/Randall/Desktop/TintedUIBarButtonItem/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib
+s322971662.966994
+e322971664.161575
+r1
+xCompileXIB
+x/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib
+lSLF07#2@50"CompileXIB TintedUIBarButtonItemViewController.xib322971662#322971664#0(0"0(0#0#84"/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib8729335136#652"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/TintedUIBarButtonItemViewController.nib /Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItemViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app.dSYM /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/TintedUIBarButtonItem
+r0
+
+CLd /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/TintedUIBarButtonItem normal i386
+r0
+
+CProcessInfoPlistFile /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/Info.plist TintedUIBarButtonItem-Info.plist
+s322971662.876611
+e322971662.904156
+r1
+xProcessInfoPlistFile
+x/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/Info.plist
+xTintedUIBarButtonItem-Info.plist
+lSLF07#2@40"Process TintedUIBarButtonItem-Info.plist322971662#322971662#0(0"0(0#0#77"/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItem-Info.plist8727652320#539"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TintedUIBarButtonItem-Info.plist -genpkginfo /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app/Info.plist0#
+
+CProcessPCH /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch.gch TintedUIBarButtonItem_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322971664.161709
+e322971667.607617
+r1
+xProcessPCH
+x/var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch.gch
+xTintedUIBarButtonItem_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Precompile TintedUIBarButtonItem_Prefix.pch322971664#322971667#0(0"0(0#0#77"/Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItem_Prefix.pch8727401632#2132"    cd /Users/Randall/Desktop/TintedUIBarButtonItem    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-generated-files.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-own-target-headers.hmap -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-all-target-headers.hmap -iquote /Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/TintedUIBarButtonItem-project-headers.hmap -F/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/include -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources/i386 -I/Users/Randall/Desktop/TintedUIBarButtonItem/build/TintedUIBarButtonItem.build/Debug-iphonesimulator/TintedUIBarButtonItem.build/DerivedSources -c /Users/Randall/Desktop/TintedUIBarButtonItem/TintedUIBarButtonItem_Prefix.pch -o /var/folders/wS/wSK0y3loH2O6SKsYrT9RkE+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TintedUIBarButtonItem_Prefix-cgsbfapophihfrdpvnqcwkkmmqda/TintedUIBarButtonItem_Prefix.pch.gch0#
+
+CTouch /Users/Randall/Desktop/TintedUIBarButtonItem/build/Debug-iphonesimulator/TintedUIBarButtonItem.app
+r0
+
